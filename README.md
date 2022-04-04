@@ -1,6 +1,8 @@
 #  ___StartUP-Star___ #
 ## Analysis of Funding data
-### This repositry contains the jupyter notebook. It has analysis of INDIAN startup funding data. ANybody interesrted in learning the patterns in data can fork the repository. 
+
+### This repositry contains the jupyter notebook. It has analysis of INDIAN startup funding data. Feel free to fork the repository in case you are interesrted in learning the patterns in data.
+
 ### It's cool to see how economy of INDIA affected the funding for startups in every month
 
 ## Required Python Libraries
